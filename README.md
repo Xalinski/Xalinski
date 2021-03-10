@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+# About me
+
+Brazilian, 17 years of age, aspirator of programmer and i want to learn a lot in the years to come.
+
+- 📫 How to reach me: anthony.r.schalinski@gmail.com
+- 😉 Pronouns: he/him
+- ⚡ Fun fact: I love cartoons 😄
 <!--
 **Xalinski/Xalinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
